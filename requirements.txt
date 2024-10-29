@@ -1,0 +1,7 @@
+numpy
+cv2
+torch
+tempfile
+os
+streamlit
+transformers
